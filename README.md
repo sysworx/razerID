@@ -1,6 +1,7 @@
 # Razer Product API
 
-Die Razer Produkt API bietet einen Mechanismus, um Informationen über Razer-Produkte, insbesondere ihre Produkt-IDs, zu verwalten und abzurufen.
+Die Razer Produkt API bietet einen Mechanismus, um Informationen über die Razer TransID abzurufen. Diese wird in zusammenhang mit der USB
+ID von verschiedenen Tools benötigt um Razer Geräte zu steuern, ohne Synapse Software.
 
 ## Inhaltsverzeichnis
 
