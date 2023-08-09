@@ -214,5 +214,9 @@
     {
         "name": "DEATHADDER_3500",
         "transaction_id": "0x3F"
+    },
+        {
+        "name": "Razer Basilisk V3 Pro",
+        "transaction_id": "0x1f"
     }
 ]
