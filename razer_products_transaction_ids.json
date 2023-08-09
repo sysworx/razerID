@@ -1,0 +1,218 @@
+[
+    {
+        "name": "HYPERPOLLING_WIRELESS_DONGLE",
+        "transaction_id": "0x1f"
+    },
+    {
+        "name": "BASILISK_V3_PRO_WIRED",
+        "transaction_id": "0x1f"
+    },
+    {
+        "name": "BASILISK_V3_PRO_WIRELESS",
+        "transaction_id": "0x1f"
+    },
+    {
+        "name": "PRO_CLICK_MINI_RECEIVER",
+        "transaction_id": "0x1f"
+    },
+    {
+        "name": "DEATHADDER_V2_LITE",
+        "transaction_id": "0x1f"
+    },
+    {
+        "name": "NAGA_HEX_V2",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "DEATHADDER_ELITE",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "LANCEHEAD_WIRED",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "BASILISK_ESSENTIAL",
+        "transaction_id": "0x3f"
+    },
+    {
+        "name": "DEATHADDER_V2",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "DEATHADDER_V2_PRO_WIRED",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "DEATHADDER_V2_PRO_WIRELESS",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "DEATHADDER_V2_MINI",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "BASILISK_V3",
+        "transaction_id": "0x1f"
+    },
+    {
+        "name": "NAGA_PRO_WIRELESS",
+        "transaction_id": "0x1f"
+    },
+    {
+        "name": "NAGA_PRO_WIRED",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "NAGA_CHROMA",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "VIPER",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "VIPER_MINI",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "VIPER_ULTIMATE_WIRED",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "VIPER_ULTIMATE_WIRELESS",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "NAGA_X",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "NAGA_LEFT_HANDED_2020",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "MAMBA_WIRELESS",
+        "transaction_id": "0x1f"
+    },
+    {
+        "name": "LANCEHEAD_WIRELESS",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "MAMBA_WIRELESS_RECEIVER",
+        "transaction_id": "0x3f"
+    },
+    {
+        "name": "MAMBA_WIRELESS_WIRED",
+        "transaction_id": "0x3f"
+    },
+    {
+        "name": "BASILISK_ULTIMATE_RECEIVER",
+        "transaction_id": "0x1f"
+    },
+    {
+        "name": "DEATHADDER_V3_PRO_WIRED",
+        "transaction_id": "0x1f"
+    },
+    {
+        "name": "LANCEHEAD_WIRELESS_RECEIVER",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "DEATHADDER_V3_PRO_WIRELESS",
+        "transaction_id": "0x1f"
+    },
+    {
+        "name": "VIPER_8K",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "OROCHI_2011",
+        "transaction_id": "0xFF"
+    },
+    {
+        "name": "MAMBA_WIRED",
+        "transaction_id": "0xFF"
+    },
+    {
+        "name": "MAMBA_ELITE",
+        "transaction_id": "0x1f"
+    },
+    {
+        "name": "NAGA_TRINITY",
+        "transaction_id": "0x1F"
+    },
+    {
+        "name": "NAGA_2012",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "ABYSSUS_1800",
+        "transaction_id": "0xFF"
+    },
+    {
+        "name": "DEATHADDER_2013",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "DEATHADDER_1800",
+        "transaction_id": "0xFF"
+    },
+    {
+        "name": "OROCHI_2013",
+        "transaction_id": "0xFF"
+    },
+    {
+        "name": "IMPERATOR",
+        "transaction_id": "0xFF"
+    },
+    {
+        "name": "BASILISK_V2",
+        "transaction_id": "0x1f"
+    },
+    {
+        "name": "BASILISK_ULTIMATE_WIRED",
+        "transaction_id": "0x1f"
+    },
+    {
+        "name": "MAMBA_TE_WIRED",
+        "transaction_id": "0xFF"
+    },
+    {
+        "name": "DIAMONDBACK_CHROMA",
+        "transaction_id": "0xFF"
+    },
+    {
+        "name": "LANCEHEAD_TE_WIRED",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "LANCEHEAD_WIRELESS_WIRED",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "ABYSSUS_V2",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "DEATHADDER_CHROMA",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "MAMBA_2012_WIRELESS",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "MAMBA_2012_WIRED",
+        "transaction_id": "0x3F"
+    },
+    {
+        "name": "OROCHI_CHROMA",
+        "transaction_id": "0xFF"
+    },
+    {
+        "name": "DEATHADDER_3500",
+        "transaction_id": "0x3F"
+    }
+]
